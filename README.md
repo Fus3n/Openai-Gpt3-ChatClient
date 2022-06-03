@@ -4,12 +4,11 @@ more info about gpt-3 can be found [here](https://openai.com)
 
 
 ## Table of Contents: 📖
-- [GPT3 ChatApp 🤖](#gpt3-chatapp---)
-  * [About the Project: 📚](#about-the-project----)
-  * [Screenshots: 📷](#screenshots----)
-  * [Setup / Installation: 💻](#setup---installation----)
-  * [Technologies Used: 🧑‍💻⚙️](#technologies-used---------)
-  * [Table of Contents: 📖](#table-of-contents----)
+- [GPT3 ChatApp 🤖](#gpt3-chatapp-🤖)
+  * [About the Project: 📚](#about-the-project-📚)
+  * [Screenshots: 📷](#screenshots-📷)
+  * [Setup / Installation: 💻](#setup--installation-💻)
+  * [Technologies Used: 🧑‍💻⚙️](#technologies-used-🧑‍💻⚙️)
 
 
 
